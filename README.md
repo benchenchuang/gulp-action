@@ -10,3 +10,5 @@ git clone项目文件<br/>
 3 修改gulpfile.js里的文件路径配置<br/>
 4 gulp 执行压缩<br/>
 
+注：只压缩js 和css  并且自动监测改动文件并实时压缩
+
